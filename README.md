@@ -1,4 +1,6 @@
-# probability-simulator
+# FATE: Frequency And Trial Experiments
+
+Formerly `probability-simulator`.
 
 Probability: exact answer against simulation.
 
