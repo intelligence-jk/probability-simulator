@@ -1,4 +1,4 @@
-# FATE: Frequency And Trial Experiments
+# ASTRAGALUS: the knucklebone that served as the first dice
 
 Formerly `probability-simulator`.
 
